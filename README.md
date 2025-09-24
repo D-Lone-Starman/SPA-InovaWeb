@@ -5,7 +5,9 @@
 O **InovaWeb Dashboard** é uma **Single Page Application (SPA)** desenvolvida com **HTML, CSS, JavaScript e Bootstrap**, que permite gerenciar produtos, vendas e carrinho de compras de forma dinâmica e responsiva.  
 
 O projeto integra com uma **API REST** (simulada com **JSON Server** ou Node + Express) para persistência de dados, permitindo que o dashboard **atualize informações em tempo real** sem recarregar a página.
-
+primeiro baixe os arquivos
+para iniciar o servidor basta dar o seguinte codigo no terminal
+$ npx json-server --watch db.json --port 3000
 ---
 
 ## Funcionalidades

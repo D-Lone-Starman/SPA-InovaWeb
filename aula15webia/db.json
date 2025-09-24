@@ -1,0 +1,62 @@
+{
+    "produtos": [
+        {
+            "id": "1",
+            "nome": "Notebook Gamer",
+            "preco": 4500
+        },
+        {
+            "id": "2",
+            "nome": "Mouse Sem Fio",
+            "preco": 120
+        },
+        {
+            "id": "3",
+            "nome": "Teclado Mecânico RGB",
+            "preco": 350
+        },
+        {
+            "id": "4",
+            "nome": "Monitor Full HD 24\"",
+            "preco": 900
+        },
+        {
+            "id": "5",
+            "nome": "Headset com Microfone",
+            "preco": 280
+        },
+        {
+            "id": "0891",
+            "nome": "Headset orelha de gatinhos",
+            "preco": 500
+        }
+    ],
+    "vendas": [
+        {
+            "id": "101",
+            "valor": 1200
+        },
+        {
+            "id": "102",
+            "valor": 4500
+        },
+        {
+            "id": "103",
+            "valor": 350
+        },
+        {
+            "id": "104",
+            "valor": 1800
+        }
+    ],
+    "carrinho": [
+        {
+            "id": "1",
+            "nome": "Notebook Gamer",
+            "preco": 4500
+        }
+    ],
+    "saldo": {
+        "saldo": 1000
+    }
+}
